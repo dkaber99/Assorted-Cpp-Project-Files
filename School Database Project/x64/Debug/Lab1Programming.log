@@ -1,0 +1,10 @@
+﻿  sqlite3.c
+  shell.c
+  Generating Code...
+  Main.cpp
+C:\Users\kaberd\OneDrive - Wentworth Institute of Technology\Documents\Junior Year Part 2\Applied programming\Lab1\Lab1Programming\Lab1Programming\Main.cpp(84,67): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kaberd\OneDrive - Wentworth Institute of Technology\Documents\Junior Year Part 2\Applied programming\Lab1\Lab1Programming\Lab1Programming\Main.cpp(90,69): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  instructor.cpp
+  Generating Code...
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Lab1Programming.vcxproj -> C:\Users\kaberd\OneDrive - Wentworth Institute of Technology\Documents\Junior Year Part 2\Applied programming\Lab1\Lab1Programming\x64\Debug\Lab1Programming.exe
